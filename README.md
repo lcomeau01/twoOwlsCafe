@@ -1,6 +1,7 @@
 # 🦉 Two Owls Cafe
 
 A PHP practice project that builds a simple cafe menu ordering system with dynamic menu display, order submission, and receipt generation.
+**Not Mobile / Window Responsive**
 
 ## Files Overview
 
